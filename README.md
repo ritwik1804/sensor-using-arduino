@@ -1,5 +1,7 @@
 # sensor-using-arduino
 
+For this project, we have used sound sensor with arduino and the data is shown in an excel sheet using coolterm
+
 
 https://user-images.githubusercontent.com/103522580/230104523-4cfe7283-9d3f-4b1f-b7df-7d15de281d12.mp4
 
